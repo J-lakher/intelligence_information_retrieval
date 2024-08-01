@@ -34,7 +34,6 @@ documents = [
     "Political leaders are negotiating new climate change agreements.",
     "Consumer spending is increasing, boosting economic growth.",
     "A renowned musician is planning a world tour.",
-    # Add more documents to reach at least 100...
 ]
 
 # Ensure there are at least 100 documents by repeating the existing ones
