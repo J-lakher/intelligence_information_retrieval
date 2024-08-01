@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 # Step 1: Collect Documents
 documents = [
-    "The stock market is expected to rise as new economic policies are introduced.",
+    "The stock market is expected to rise as new economic policies are introduced. ",
     "The latest blockbuster movie has broken all box office records.",
     "Political tensions are rising as elections approach.",
     "New government regulations are affecting economic growth.",
