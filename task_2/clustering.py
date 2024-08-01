@@ -37,7 +37,7 @@ documents = [
 ]
 
 # Ensure there are at least 100 documents by repeating the existing ones
-documents *= 5  # Multiply to ensure a large enough dataset (20 * 5 = 100 documents)
+documents *= 5  # Multiply to ensure a large enough dataset
 
 # Step 2: Preprocess the Data
 def preprocess(text):
