@@ -6,7 +6,7 @@ import webbrowser
 import os
 
 crawler_process = None
-crawler_interval = 300  # 5 minutes
+crawler_interval = 300  #5 mins
 
 def start_crawler():
     global crawler_process
