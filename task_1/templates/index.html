@@ -93,7 +93,7 @@
         <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="logo">
         <h1>Publication Search</h1>
         <form method="post" action="{{ url_for('index') }}">
-            <label for="query">Query</label>
+            <label for="query">Your Query</label>
             <input type="text" id="query" name="query" value="{{ query }}">
             <button type="submit">Search</button>
         </form>
